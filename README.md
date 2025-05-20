@@ -1,16 +1,14 @@
 ## Hi there 👋
+I am Alok Karande, a Technical Leader with over 2 decades of Software Engineering experience. 
 
-<!--
-**akarande0906/akarande0906** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on contributing to Open source projects.
+- 🌱 I’m currently learning Generative AI with a focus on Agentic Workflows.
+- 👯 I’m looking to collaborate on Gen AI and distributed computing related projects.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+You can find more details on my professional work here: https://www.linkedin.com/in/alokkarande/
+
+
+
+
+More to come. Watch this space!
